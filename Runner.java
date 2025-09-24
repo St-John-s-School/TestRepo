@@ -3,4 +3,9 @@ public class Runner{
   {
 
   }
+
+  public static int factorial(int a)
+  {
+    
+  }
 }
